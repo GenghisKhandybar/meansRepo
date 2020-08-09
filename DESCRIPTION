@@ -1,0 +1,12 @@
+Package: meansRepo
+Type: Package
+Title: Means test resources
+Version: 0.1.0
+Author: William Medwid
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: All the licenses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
